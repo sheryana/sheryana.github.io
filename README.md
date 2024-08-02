@@ -1,7 +1,0 @@
-
-</head>
-<body>
-    <h1>Welcome to My Portfolio</h1>
-    <p>Pharmacist with experience in brand management, corporate communication, and digital marketing. I believe that effective branding and digital marketing can have a transformative impact on the healthcare industry. I am passionate about storytelling and finding ways to connect people with a brand they love, and fostering a positive organizational culture.</p>
-</body>
-</html>
